@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devank Upadhyaya</h1>
-<h3 align="center">A Passionate AI/ML student who finds joy in coding and continuous learning. 🤖📚</h3>
+<h3 align="center">A Passionate CS student who finds joy in coding and continuous learning. 🤖📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanku&label=Profile%20views&color=0e75b6&style=flat" alt="devanku" /> </p>
 
